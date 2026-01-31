@@ -28,3 +28,4 @@ git clone https://github.com/yourname/Smart-Path.git
 cd Smart-Path
 pip3 install -r requirements.txt
 python3 backend/main.py
+
